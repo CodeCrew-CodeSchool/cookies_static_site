@@ -16,3 +16,5 @@ Don't eat these if you have a peanut allergy :warning:
 Don't discriminate, you like them too :stuck_out_tongue_closed_eyes:
 
 [Click here to see a second page](secondPage.md)
+
+[Click here to see a third page](page_three.html)
