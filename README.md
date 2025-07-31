@@ -15,3 +15,4 @@ Don't eat these if you have a peanut allergy :warning:
 ## Oatmeal Raisin
 Don't discriminate, you like them too :stuck_out_tongue_closed_eyes:
 
+[Click here to see a second page](secondPage.md)
