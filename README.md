@@ -3,10 +3,10 @@
 ## Chocolate Chip
 Best when melty :smile:
 
-![a stack of cookies](https://unsplash.com/photos/chocolate-ice-cream-on-brown-cone-98Kk8vwPbgs)
+![a stack of cookies](/tamas-pap-98Kk8vwPbgs-unsplash%20(2).jpg)
 
 
-<img alt="a stack of cookies" src="https://unsplash.com/photos/chocolate-ice-cream-on-brown-cone-98Kk8vwPbgs"  width="150px" height="150px">
+<img alt="a stack of cookies" src="/tamas-pap-98Kk8vwPbgs-unsplash%20(2).jpg"  width="150px" height="150px">
 
 ## M&M
 M&M cokies have candy :candy: in them 
