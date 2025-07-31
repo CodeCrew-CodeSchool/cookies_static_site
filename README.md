@@ -3,7 +3,7 @@
 ## Chocolate Chip
 Best when melty :smile:
 
-<img alt="a stack of cookies" src="tamas-pap-98Kk8vwPbgs-unsplash%20.jpg"  width="300px" height="300px">
+<img alt="a stack of cookies" src="tamas-pap-98Kk8vwPbgs-unsplash%20.jpg"  width="300px" height="300px"/>
 
 ## M&M
 M&M cokies have candy :candy: in them 
